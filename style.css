@@ -1,0 +1,97 @@
+body{
+  font-size: 20px;
+  font-family: Arial;
+}
+
+header{
+  background-image: url("./img/imagem-navbar.jpg");
+  padding: 80px;
+  height: 600px;
+}
+
+.card{
+  margin-top: 200px;
+  margin-right: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.container{
+  display: flex;
+}
+
+#texto{
+  width: 750px;
+  height: 40px;
+  font-family: Arial;
+  font-size: 20px;
+  display: flex;
+}
+
+.carousel{
+  width: 800px;
+  height: 350px;
+  margin-left: 60px;
+  display: block;
+}
+
+.card-text{
+  color: rgb(255, 255, 255);
+}
+
+.active{
+  font-family: 'Nunito', sans-serif;
+}
+
+.form-inline{
+  width: 800px;
+  margin-left: 525px;
+}
+
+.carousel-img img{
+  border-radius: 10px;
+}
+
+.nav-link{
+  font-size: 19px;
+}
+
+.button-navv{
+  border-radius: 2px;
+  width: 135px;
+  height: 40px;
+  border: solid 1px; 
+  background-color: #f9f9f9;
+  color: #626262;
+  margin-left: 18px;
+}
+
+.button-navv:hover {
+  color: #ffffff;
+  background-color: #626262;
+}
+
+.nav-item{
+  margin-left: 60px;
+}
+
+.card-texxt{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+.cardinho{
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+.fa-cog{
+  margin-left: 1500px;
+  margin-bottom: 50px;
+}
+
+.card-img-top2{
+  width: 430px;
+  height: 265px;
+}
+
